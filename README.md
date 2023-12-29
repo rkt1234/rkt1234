@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on myself<br>I'm looking to collaborate on Flutter projects<br>I'm currently learning iOS development with Swift <br>Ask me about app development and DSA<br>Fun fact - I am funny<br>
+I'm currently working on myself<br>I'm looking to collaborate on Flutter projects<br>I'm currently learning iOS development with Swift <br>Ask me about app development and DSA<br>
 
 
 ## 🌐 Socials:
